@@ -1,0 +1,16 @@
+{
+    "Objects":"I'm Megumi Yamazaki and graduated from Seneca college at 2021 August. I earned Advanced diploma of Computer Programming and Analysis.",
+    "SoftSkill_1":"Detail-Oriented",
+    "SoftSkill_2":"Problem Solving",
+    "SoftSkill_3":"Creativity",
+    "SoftSkill_4":"TeamWork",
+    "SoftSkill_5":"Adaptability",
+    "SoftSkill_6":"Active Listening",
+    "SoftSkill_7":"Time Management",
+    "SoftSkill_8":"Willingness to Challenge",
+    "Project_1":"My personal portfolio website built with React.js, Bootstrap5 and CSS to show my highlights and projects.",
+    "Project_2":"Weather application that built with Vue.js, BootStrap5 and Restful API.",
+    "Project_3":"Online bidding web application with video and live-streaming for long-term academic team project built with React.js, Bootstrap5, MongoDB, and Restful API",
+    "Project_4":"Calculator application built with C++ and QT framework.",
+    "ContactMsg":"I'm currently looking for the opportunity to work as Software developer. Please feel free to send email to me."
+}
