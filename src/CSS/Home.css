@@ -1,0 +1,33 @@
+.Home{
+    color: #fff;
+    height:100vh;
+    background: linear-gradient(136deg, #4484ce, #1ad7c0, #ff9b11, #9b59b6, #ff7f7f, #ecf0f1);
+    background-size: 400% 400%;
+    position:relative;
+    animation:change 30s ease-in infinite;
+}
+
+.homeContainer{
+    padding-top: 40vh;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.homeContainer h1{
+    margin-top: 30vh;
+    padding-bottom: 1%;
+}
+
+
+@keyframes change{
+    0%{
+        background-position: 0 50%;
+    }
+    50%{
+        background-position: 100% 50%;
+    }
+    100%{
+        background-position: 0 50%;
+    }
+}
